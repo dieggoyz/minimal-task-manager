@@ -1,0 +1,12 @@
+[
+  { "text": "Buy groceries 🛒", "completed": true },
+  { "text": "Finish the project report 📄", "completed": false },
+  { "text": "Schedule dentist appointment 🦷", "completed": false },
+  { "text": "Workout at the gym 💪", "completed": true },
+  { "text": "Read 20 pages of a book 📚", "completed": false },
+  { "text": "Call Mom 📞", "completed": false },
+  { "text": "Clean the house 🧹", "completed": true },
+  { "text": "Prepare dinner for tonight 🍽️", "completed": true },
+  { "text": "Send birthday invitations 🎉", "completed": true },
+  { "text": "Organize the workspace 🗂️", "completed": false }
+]
